@@ -8,10 +8,6 @@ And like most developers I work with, I have come to enjoy the Linux ecosystem d
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Guru227&theme=highcontrast&show_icons=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Guru227&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Guru227&theme=neon-palenight&hide_border=true)
-
 ## Languages & Tools
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank">
